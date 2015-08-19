@@ -10,7 +10,7 @@ module Thin
     
     STRING   = [MAJOR, MINOR, TINY].join('.')
     
-    CODENAME = "Protein Powder".freeze
+    CODENAME = "JW WOZ HERE!!!".freeze
     
     RACK     = [1, 0].freeze # Rack protocol version
   end
